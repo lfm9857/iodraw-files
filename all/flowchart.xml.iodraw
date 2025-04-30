@@ -93,8 +93,8 @@
         <mxCell id="a2kHV414RtayxlwNbS5l-24" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="585" y="140" width="20" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="a2kHV414RtayxlwNbS5l-25" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="625" y="178" width="50" height="30" as="geometry" />
+        <mxCell id="a2kHV414RtayxlwNbS5l-25" value="参数共享层" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="610" y="178" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
